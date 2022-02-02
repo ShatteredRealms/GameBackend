@@ -3,5 +3,5 @@ package main
 import "log"
 
 func main() {
-    log.Printf("test")
+	log.Printf("test")
 }
